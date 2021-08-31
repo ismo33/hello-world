@@ -1,0 +1,28 @@
+input{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100px;
+    height: 75px;
+    border-radius: 10px;
+    border:none;
+    font-size: 40px;
+    margin: 5px;
+    cursor: pointer;
+}
+body{
+    text-align: center;
+}
+.myinput{
+    background-color: orangered;
+}
+#mydisplay{
+    background-color: rgb(112, 18, 112);
+    width: 430px;
+}
+h1{
+    font-family:cursive;
+    font-size: 50px;
+    margin: 0px;
+    margin-top: 50px;
+}
